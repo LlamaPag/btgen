@@ -1,4 +1,7 @@
+<img align="right" src="logo.png" alt="logo" width="64">
+
 # BTGen
+
 > A Minecraft datapack to emulate buried treasure placement
 
 To place a buried treasure structure, run `/function sp.buried_treasure:place`
